@@ -29,6 +29,20 @@
   },
   {
     "chartType": "video",
+    "frequency": "chart_period_type_daily",
+    "title": "2.0",
+    "artist": "BTS",
+    "rank": 27
+  },
+  {
+    "chartType": "video",
+    "frequency": "chart_period_type_daily",
+    "title": "Hooligan",
+    "artist": "BTS",
+    "rank": 71
+  },
+  {
+    "chartType": "video",
     "frequency": "chart_period_type_weekly",
     "title": "2.0",
     "artist": "BTS",
@@ -40,19 +54,5 @@
     "title": "Hooligan",
     "artist": "BTS",
     "rank": 53
-  },
-  {
-    "chartType": "video",
-    "frequency": "chart_period_type_daily",
-    "title": "2.0",
-    "artist": "BTS",
-    "rank": 29
-  },
-  {
-    "chartType": "video",
-    "frequency": "chart_period_type_daily",
-    "title": "Hooligan",
-    "artist": "BTS",
-    "rank": 69
   }
 ]
