@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.16.1",
+    "playwright": "^1.60.0"
+  },
+  "name": "youtube-music-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youtube.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
