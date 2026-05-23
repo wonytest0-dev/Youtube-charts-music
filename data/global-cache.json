@@ -4,28 +4,42 @@
     "frequency": "chart_period_type_weekly",
     "title": null,
     "artist": "BTS",
-    "rank": 13
+    "rank": 15
   },
   {
     "chartType": "track",
     "frequency": "chart_period_type_weekly",
     "title": "2.0",
     "artist": "BTS",
-    "rank": 41
+    "rank": 50
   },
   {
     "chartType": "track",
     "frequency": "chart_period_type_weekly",
     "title": "SWIM",
     "artist": "BTS",
-    "rank": 54
+    "rank": 61
   },
   {
     "chartType": "track",
     "frequency": "chart_period_type_weekly",
     "title": "Hooligan",
     "artist": "BTS",
-    "rank": 70
+    "rank": 91
+  },
+  {
+    "chartType": "video",
+    "frequency": "chart_period_type_weekly",
+    "title": "2.0",
+    "artist": "BTS",
+    "rank": 26
+  },
+  {
+    "chartType": "video",
+    "frequency": "chart_period_type_weekly",
+    "title": "Hooligan",
+    "artist": "BTS",
+    "rank": 61
   },
   {
     "chartType": "video",
@@ -40,19 +54,5 @@
     "title": "Hooligan",
     "artist": "BTS",
     "rank": 74
-  },
-  {
-    "chartType": "video",
-    "frequency": "chart_period_type_weekly",
-    "title": "2.0",
-    "artist": "BTS",
-    "rank": 27
-  },
-  {
-    "chartType": "video",
-    "frequency": "chart_period_type_weekly",
-    "title": "Hooligan",
-    "artist": "BTS",
-    "rank": 53
   }
 ]
