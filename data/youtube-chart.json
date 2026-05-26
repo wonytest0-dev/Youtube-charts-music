@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/05/2026, 01:56:30 KST",
-  "totalEntries": 133,
+  "updatedAt": "27/05/2026, 01:35:03 KST",
+  "totalEntries": 142,
   "entries": [
     {
       "country": "Singapore",
@@ -94,6 +94,20 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 16,
+      "previousRank": 25,
+      "views": 4788,
+      "periodsOnChart": 30,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
       "country": "Taiwan",
       "countryCode": "TW",
       "chartType": "artist",
@@ -163,6 +177,20 @@
     {
       "country": "Japan",
       "countryCode": "JP",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 23,
+      "previousRank": 26,
+      "views": 114209,
+      "periodsOnChart": 54,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Japan",
+      "countryCode": "JP",
       "chartType": "track",
       "frequency": "chart_period_type_weekly",
       "title": "2.0",
@@ -186,20 +214,6 @@
       "views": 69140,
       "periodsOnChart": 505,
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
-    },
-    {
-      "country": "Singapore",
-      "countryCode": "SG",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 25,
-      "previousRank": 20,
-      "views": 4767,
-      "periodsOnChart": 29,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Worldwide",
@@ -240,20 +254,6 @@
       "previousRank": 27,
       "views": 7324569,
       "periodsOnChart": 8,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
-      "country": "Japan",
-      "countryCode": "JP",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 26,
-      "previousRank": 25,
-      "views": 142548,
-      "periodsOnChart": 53,
       "videoId": "_gyultVTesk",
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
@@ -416,6 +416,48 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
+      "country": "Worldwide",
+      "countryCode": "GLOBAL",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 37,
+      "previousRank": 42,
+      "views": 1173367,
+      "periodsOnChart": 55,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 37,
+      "previousRank": 42,
+      "views": 1173367,
+      "periodsOnChart": 55,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Greece",
+      "countryCode": "GR",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 37,
+      "previousRank": 42,
+      "views": 1173367,
+      "periodsOnChart": 55,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
       "country": "Bolivia",
       "countryCode": "BO",
       "chartType": "artist",
@@ -495,48 +537,6 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
-      "country": "Worldwide",
-      "countryCode": "GLOBAL",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 42,
-      "previousRank": 35,
-      "views": 1209438,
-      "periodsOnChart": 54,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
-      "country": "Bulgaria",
-      "countryCode": "BG",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 42,
-      "previousRank": 35,
-      "views": 1209438,
-      "periodsOnChart": 54,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
-      "country": "Greece",
-      "countryCode": "GR",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 42,
-      "previousRank": 35,
-      "views": 1209438,
-      "periodsOnChart": 54,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
       "country": "Belgium",
       "countryCode": "BE",
       "chartType": "artist",
@@ -577,6 +577,20 @@
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 46,
+      "previousRank": 51,
+      "views": 18521,
+      "periodsOnChart": 30,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
       "country": "Japan",
       "countryCode": "JP",
       "chartType": "track",
@@ -602,6 +616,20 @@
       "views": 2166605,
       "periodsOnChart": 505,
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
+    },
+    {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "SWIM",
+      "artist": "BTS",
+      "rank": 49,
+      "previousRank": 55,
+      "views": 3036,
+      "periodsOnChart": 30,
+      "videoId": "b4iVv91Z6lY",
+      "thumbnail": "https://i.ytimg.com/vi/b4iVv91Z6lY/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lNzkXayNQB44DEMDDNwfKbc7eSiQ"
     },
     {
       "country": "United Kingdom",
@@ -659,6 +687,34 @@
       "thumbnail": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w180-h180-l90-rj"
     },
     {
+      "country": "Mexico",
+      "countryCode": "MX",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 50,
+      "previousRank": 56,
+      "views": 118300,
+      "periodsOnChart": 55,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "Hooligan",
+      "artist": "BTS",
+      "rank": 50,
+      "previousRank": 51,
+      "views": 2963,
+      "periodsOnChart": 30,
+      "videoId": "diBO0gMuTXo",
+      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
+    },
+    {
       "country": "Ecuador",
       "countryCode": "EC",
       "chartType": "artist",
@@ -684,48 +740,6 @@
       "periodsOnChart": 5,
       "videoId": "diBO0gMuTXo",
       "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
-    },
-    {
-      "country": "Singapore",
-      "countryCode": "SG",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "Hooligan",
-      "artist": "BTS",
-      "rank": 51,
-      "previousRank": 61,
-      "views": 2866,
-      "periodsOnChart": 29,
-      "videoId": "diBO0gMuTXo",
-      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
-    },
-    {
-      "country": "Taiwan",
-      "countryCode": "TW",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 51,
-      "previousRank": 48,
-      "views": 19994,
-      "periodsOnChart": 29,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
-      "country": "Hong Kong",
-      "countryCode": "HK",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 52,
-      "previousRank": 61,
-      "views": 3901,
-      "periodsOnChart": 29,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Peru",
@@ -825,18 +839,18 @@
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
-      "country": "Singapore",
-      "countryCode": "SG",
+      "country": "Peru",
+      "countryCode": "PE",
       "chartType": "video",
       "frequency": "chart_period_type_daily",
-      "title": "SWIM",
+      "title": "2.0",
       "artist": "BTS",
       "rank": 55,
-      "previousRank": 65,
-      "views": 2710,
-      "periodsOnChart": 29,
-      "videoId": "b4iVv91Z6lY",
-      "thumbnail": "https://i.ytimg.com/vi/b4iVv91Z6lY/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lNzkXayNQB44DEMDDNwfKbc7eSiQ"
+      "previousRank": 70,
+      "views": 29737,
+      "periodsOnChart": 54,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Finland",
@@ -852,20 +866,6 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
-      "country": "Mexico",
-      "countryCode": "MX",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 56,
-      "previousRank": 68,
-      "views": 113090,
-      "periodsOnChart": 54,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
       "country": "Paraguay",
       "countryCode": "PY",
       "chartType": "artist",
@@ -877,6 +877,20 @@
       "views": 423956,
       "periodsOnChart": 488,
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
+    },
+    {
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 59,
+      "previousRank": 52,
+      "views": 3572,
+      "periodsOnChart": 30,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Mexico",
@@ -1019,20 +1033,6 @@
       "thumbnail": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w180-h180-l90-rj"
     },
     {
-      "country": "South Korea",
-      "countryCode": "KR",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 62,
-      "previousRank": 60,
-      "views": 31601,
-      "periodsOnChart": 53,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
       "country": "France",
       "countryCode": "FR",
       "chartType": "artist",
@@ -1058,6 +1058,20 @@
       "periodsOnChart": 5,
       "videoId": "_gyultVTesk",
       "thumbnail": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w180-h180-l90-rj"
+    },
+    {
+      "country": "Chile",
+      "countryCode": "CL",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 64,
+      "previousRank": 78,
+      "views": 14992,
+      "periodsOnChart": 54,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Austria",
@@ -1129,6 +1143,34 @@
       "thumbnail": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w180-h180-l90-rj"
     },
     {
+      "country": "South Korea",
+      "countryCode": "KR",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 67,
+      "previousRank": 62,
+      "views": 29050,
+      "periodsOnChart": 54,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Mexico",
+      "countryCode": "MX",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "Hooligan",
+      "artist": "BTS",
+      "rank": 67,
+      "previousRank": 79,
+      "views": 83558,
+      "periodsOnChart": 48,
+      "videoId": "diBO0gMuTXo",
+      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
+    },
+    {
       "country": "Singapore",
       "countryCode": "SG",
       "chartType": "track",
@@ -1183,20 +1225,6 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
-      "country": "Peru",
-      "countryCode": "PE",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 70,
-      "previousRank": 65,
-      "views": 30595,
-      "periodsOnChart": 53,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
       "country": "Brazil",
       "countryCode": "BR",
       "chartType": "artist",
@@ -1208,6 +1236,20 @@
       "views": 9797311,
       "periodsOnChart": 502,
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
+    },
+    {
+      "country": "Iceland",
+      "countryCode": "IS",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 71,
+      "previousRank": null,
+      "views": 60,
+      "periodsOnChart": 25,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Peru",
@@ -1222,6 +1264,20 @@
       "periodsOnChart": 9,
       "videoId": "_gyultVTesk",
       "thumbnail": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w180-h180-l90-rj"
+    },
+    {
+      "country": "Philippines",
+      "countryCode": "PH",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 72,
+      "previousRank": 76,
+      "views": 50174,
+      "periodsOnChart": 30,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Argentina",
@@ -1264,20 +1320,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
-      "country": "Singapore",
-      "countryCode": "SG",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "Dreamers (FIFA World Cup 2022 Soundtrack)",
-      "artist": "Jung Kook, BTS",
-      "rank": 75,
-      "previousRank": 89,
-      "views": 2110,
-      "periodsOnChart": 3,
-      "videoId": "IwzkfMmNMpM",
-      "thumbnail": "https://i.ytimg.com/vi/IwzkfMmNMpM/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3npRmJJz6bN8ai-06mGyKtVNrK0Yw"
-    },
-    {
       "country": "United States",
       "countryCode": "US",
       "chartType": "video",
@@ -1305,16 +1347,16 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
-      "country": "Philippines",
-      "countryCode": "PH",
+      "country": "United States",
+      "countryCode": "US",
       "chartType": "video",
       "frequency": "chart_period_type_daily",
       "title": "2.0",
       "artist": "BTS",
       "rank": 76,
-      "previousRank": 71,
-      "views": 49313,
-      "periodsOnChart": 29,
+      "previousRank": null,
+      "views": 80703,
+      "periodsOnChart": 53,
       "videoId": "_gyultVTesk",
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
@@ -1333,20 +1375,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
-      "country": "Chile",
-      "countryCode": "CL",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 78,
-      "previousRank": 89,
-      "views": 15770,
-      "periodsOnChart": 53,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
       "country": "Vietnam",
       "countryCode": "VN",
       "chartType": "artist",
@@ -1360,18 +1388,18 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
-      "country": "Mexico",
-      "countryCode": "MX",
+      "country": "Australia",
+      "countryCode": "AU",
       "chartType": "video",
       "frequency": "chart_period_type_daily",
-      "title": "Hooligan",
+      "title": "2.0",
       "artist": "BTS",
       "rank": 79,
-      "previousRank": null,
-      "views": 81706,
-      "periodsOnChart": 47,
-      "videoId": "diBO0gMuTXo",
-      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
+      "previousRank": 95,
+      "views": 6521,
+      "periodsOnChart": 53,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Panama",
@@ -1387,16 +1415,16 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
-      "country": "Malaysia",
-      "countryCode": "MY",
+      "country": "Paraguay",
+      "countryCode": "PY",
       "chartType": "video",
       "frequency": "chart_period_type_daily",
       "title": "2.0",
       "artist": "BTS",
       "rank": 81,
-      "previousRank": 80,
-      "views": 22567,
-      "periodsOnChart": 29,
+      "previousRank": null,
+      "views": 3706,
+      "periodsOnChart": 50,
       "videoId": "_gyultVTesk",
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
@@ -1470,6 +1498,20 @@
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
+      "country": "Malaysia",
+      "countryCode": "MY",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 85,
+      "previousRank": 81,
+      "views": 24587,
+      "periodsOnChart": 30,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
       "country": "Mexico",
       "countryCode": "MX",
       "chartType": "track",
@@ -1482,6 +1524,48 @@
       "periodsOnChart": 6,
       "videoId": "diBO0gMuTXo",
       "thumbnail": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w180-h180-l90-rj"
+    },
+    {
+      "country": "Worldwide",
+      "countryCode": "GLOBAL",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "Hooligan",
+      "artist": "BTS",
+      "rank": 87,
+      "previousRank": 94,
+      "views": 734294,
+      "periodsOnChart": 49,
+      "videoId": "diBO0gMuTXo",
+      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
+    },
+    {
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "Hooligan",
+      "artist": "BTS",
+      "rank": 87,
+      "previousRank": 94,
+      "views": 734294,
+      "periodsOnChart": 49,
+      "videoId": "diBO0gMuTXo",
+      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
+    },
+    {
+      "country": "Greece",
+      "countryCode": "GR",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "Hooligan",
+      "artist": "BTS",
+      "rank": 87,
+      "previousRank": 94,
+      "views": 734294,
+      "periodsOnChart": 49,
+      "videoId": "diBO0gMuTXo",
+      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
     },
     {
       "country": "Japan",
@@ -1498,6 +1582,20 @@
       "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
     },
     {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "Dreamers (FIFA World Cup 2022 Soundtrack)",
+      "artist": "Jung Kook, BTS",
+      "rank": 88,
+      "previousRank": 75,
+      "views": 1991,
+      "periodsOnChart": 4,
+      "videoId": "IwzkfMmNMpM",
+      "thumbnail": "https://i.ytimg.com/vi/IwzkfMmNMpM/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3npRmJJz6bN8ai-06mGyKtVNrK0Yw"
+    },
+    {
       "country": "Australia",
       "countryCode": "AU",
       "chartType": "video",
@@ -1508,6 +1606,34 @@
       "previousRank": 77,
       "views": 29608,
       "periodsOnChart": 8,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "New Zealand",
+      "countryCode": "NZ",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 89,
+      "previousRank": null,
+      "views": 1560,
+      "periodsOnChart": 45,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Brazil",
+      "countryCode": "BR",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 90,
+      "previousRank": null,
+      "views": 89719,
+      "periodsOnChart": 45,
       "videoId": "_gyultVTesk",
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
@@ -1599,6 +1725,20 @@
       "country": "El Salvador",
       "countryCode": "SV",
       "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 92,
+      "previousRank": null,
+      "views": 3103,
+      "periodsOnChart": 50,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "El Salvador",
+      "countryCode": "SV",
+      "chartType": "video",
       "frequency": "chart_period_type_weekly",
       "title": "2.0",
       "artist": "BTS",
@@ -1608,48 +1748,6 @@
       "periodsOnChart": 8,
       "videoId": "_gyultVTesk",
       "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
-    },
-    {
-      "country": "Worldwide",
-      "countryCode": "GLOBAL",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "Hooligan",
-      "artist": "BTS",
-      "rank": 94,
-      "previousRank": 94,
-      "views": 754977,
-      "periodsOnChart": 48,
-      "videoId": "diBO0gMuTXo",
-      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
-    },
-    {
-      "country": "Bulgaria",
-      "countryCode": "BG",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "Hooligan",
-      "artist": "BTS",
-      "rank": 94,
-      "previousRank": 94,
-      "views": 754977,
-      "periodsOnChart": 48,
-      "videoId": "diBO0gMuTXo",
-      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
-    },
-    {
-      "country": "Greece",
-      "countryCode": "GR",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "Hooligan",
-      "artist": "BTS",
-      "rank": 94,
-      "previousRank": 94,
-      "views": 754977,
-      "periodsOnChart": 48,
-      "videoId": "diBO0gMuTXo",
-      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
     },
     {
       "country": "Japan",
@@ -1664,20 +1762,6 @@
       "periodsOnChart": 18,
       "videoId": "BflFNMl_UWY",
       "thumbnail": "https://i.ytimg.com/vi/BflFNMl_UWY/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kGghQgX9b120mPhnyGbVBiHuHWDQ"
-    },
-    {
-      "country": "Australia",
-      "countryCode": "AU",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "rank": 95,
-      "previousRank": null,
-      "views": 7112,
-      "periodsOnChart": 52,
-      "videoId": "_gyultVTesk",
-      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
     },
     {
       "country": "Chile",
@@ -1722,6 +1806,34 @@
       "thumbnail": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w180-h180-l90-rj"
     },
     {
+      "country": "Canada",
+      "countryCode": "CA",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 97,
+      "previousRank": null,
+      "views": 6380,
+      "periodsOnChart": 51,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Peru",
+      "countryCode": "PE",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "Hooligan",
+      "artist": "BTS",
+      "rank": 97,
+      "previousRank": null,
+      "views": 20375,
+      "periodsOnChart": 45,
+      "videoId": "diBO0gMuTXo",
+      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
+    },
+    {
       "country": "United Arab Emirates",
       "countryCode": "AE",
       "chartType": "artist",
@@ -1748,6 +1860,34 @@
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
     },
     {
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "rank": 98,
+      "previousRank": null,
+      "views": 6992,
+      "periodsOnChart": 43,
+      "videoId": "_gyultVTesk",
+      "thumbnail": "https://i.ytimg.com/vi/_gyultVTesk/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kyZlMlaKXu-6Qhmc76p9006OWByA"
+    },
+    {
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "SWIM",
+      "artist": "BTS",
+      "rank": 98,
+      "previousRank": null,
+      "views": 11057,
+      "periodsOnChart": 25,
+      "videoId": "b4iVv91Z6lY",
+      "thumbnail": "https://i.ytimg.com/vi/b4iVv91Z6lY/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lNzkXayNQB44DEMDDNwfKbc7eSiQ"
+    },
+    {
       "country": "Ukraine",
       "countryCode": "UA",
       "chartType": "artist",
@@ -1759,20 +1899,6 @@
       "views": 901129,
       "periodsOnChart": 492,
       "thumbnail": "https://lh3.googleusercontent.com/8rsLpP6VJjt-yTN8ZG5rY-qt2aCC-IYMWmVkk7qa8c5vrjO6zetKSgwO2QknHI3FtWl6Zannp2VsQ5o"
-    },
-    {
-      "country": "Hong Kong",
-      "countryCode": "HK",
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "Hooligan",
-      "artist": "BTS",
-      "rank": 99,
-      "previousRank": null,
-      "views": 2265,
-      "periodsOnChart": 16,
-      "videoId": "diBO0gMuTXo",
-      "thumbnail": "https://i.ytimg.com/vi/diBO0gMuTXo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nRdpvlQVEK5TLgFSTg337NcUujtg"
     },
     {
       "country": "Malaysia",
@@ -2022,6 +2148,104 @@
     },
     {
       "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "2.0",
+      "artist": "BTS",
+      "totalEntries": 22,
+      "bestRank": 16,
+      "countries": [
+        {
+          "country": "Singapore",
+          "rank": 16
+        },
+        {
+          "country": "Japan",
+          "rank": 23
+        },
+        {
+          "country": "Worldwide",
+          "rank": 37
+        },
+        {
+          "country": "Bulgaria",
+          "rank": 37
+        },
+        {
+          "country": "Greece",
+          "rank": 37
+        },
+        {
+          "country": "Taiwan",
+          "rank": 46
+        },
+        {
+          "country": "Mexico",
+          "rank": 50
+        },
+        {
+          "country": "Peru",
+          "rank": 55
+        },
+        {
+          "country": "Hong Kong",
+          "rank": 59
+        },
+        {
+          "country": "Chile",
+          "rank": 64
+        },
+        {
+          "country": "South Korea",
+          "rank": 67
+        },
+        {
+          "country": "Iceland",
+          "rank": 71
+        },
+        {
+          "country": "Philippines",
+          "rank": 72
+        },
+        {
+          "country": "United States",
+          "rank": 76
+        },
+        {
+          "country": "Australia",
+          "rank": 79
+        },
+        {
+          "country": "Paraguay",
+          "rank": 81
+        },
+        {
+          "country": "Malaysia",
+          "rank": 85
+        },
+        {
+          "country": "New Zealand",
+          "rank": 89
+        },
+        {
+          "country": "Brazil",
+          "rank": 90
+        },
+        {
+          "country": "El Salvador",
+          "rank": 92
+        },
+        {
+          "country": "Canada",
+          "rank": 97
+        },
+        {
+          "country": "Guatemala",
+          "rank": 98
+        }
+      ]
+    },
+    {
+      "chartType": "video",
       "frequency": "chart_period_type_weekly",
       "title": "2.0",
       "artist": "BTS",
@@ -2107,72 +2331,6 @@
         {
           "country": "Russia",
           "rank": 100
-        }
-      ]
-    },
-    {
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
-      "title": "2.0",
-      "artist": "BTS",
-      "totalEntries": 14,
-      "bestRank": 25,
-      "countries": [
-        {
-          "country": "Singapore",
-          "rank": 25
-        },
-        {
-          "country": "Japan",
-          "rank": 26
-        },
-        {
-          "country": "Worldwide",
-          "rank": 42
-        },
-        {
-          "country": "Bulgaria",
-          "rank": 42
-        },
-        {
-          "country": "Greece",
-          "rank": 42
-        },
-        {
-          "country": "Taiwan",
-          "rank": 51
-        },
-        {
-          "country": "Hong Kong",
-          "rank": 52
-        },
-        {
-          "country": "Mexico",
-          "rank": 56
-        },
-        {
-          "country": "South Korea",
-          "rank": 62
-        },
-        {
-          "country": "Peru",
-          "rank": 70
-        },
-        {
-          "country": "Philippines",
-          "rank": 76
-        },
-        {
-          "country": "Chile",
-          "rank": 78
-        },
-        {
-          "country": "Malaysia",
-          "rank": 81
-        },
-        {
-          "country": "Australia",
-          "rank": 95
         }
       ]
     },
@@ -2374,31 +2532,49 @@
       "title": "Hooligan",
       "artist": "BTS",
       "totalEntries": 6,
-      "bestRank": 51,
+      "bestRank": 50,
       "countries": [
         {
           "country": "Singapore",
-          "rank": 51
+          "rank": 50
         },
         {
           "country": "Mexico",
-          "rank": 79
+          "rank": 67
         },
         {
           "country": "Worldwide",
-          "rank": 94
+          "rank": 87
         },
         {
           "country": "Bulgaria",
-          "rank": 94
+          "rank": 87
         },
         {
           "country": "Greece",
-          "rank": 94
+          "rank": 87
         },
         {
-          "country": "Hong Kong",
-          "rank": 99
+          "country": "Peru",
+          "rank": 97
+        }
+      ]
+    },
+    {
+      "chartType": "video",
+      "frequency": "chart_period_type_daily",
+      "title": "SWIM",
+      "artist": "BTS",
+      "totalEntries": 2,
+      "bestRank": 49,
+      "countries": [
+        {
+          "country": "Singapore",
+          "rank": 49
+        },
+        {
+          "country": "Taiwan",
+          "rank": 98
         }
       ]
     },
@@ -2441,28 +2617,14 @@
     {
       "chartType": "video",
       "frequency": "chart_period_type_daily",
-      "title": "SWIM",
-      "artist": "BTS",
-      "totalEntries": 1,
-      "bestRank": 55,
-      "countries": [
-        {
-          "country": "Singapore",
-          "rank": 55
-        }
-      ]
-    },
-    {
-      "chartType": "video",
-      "frequency": "chart_period_type_daily",
       "title": "Dreamers (FIFA World Cup 2022 Soundtrack)",
       "artist": "Jung Kook, BTS",
       "totalEntries": 1,
-      "bestRank": 75,
+      "bestRank": 88,
       "countries": [
         {
           "country": "Singapore",
-          "rank": 75
+          "rank": 88
         }
       ]
     },
