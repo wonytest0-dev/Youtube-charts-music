@@ -6,7 +6,6 @@ const COUNTRIES =
   require("./lib/countries.json");
 
 const FILTERS = [
-  "BTS",
   "Jimin"
 ];
 
