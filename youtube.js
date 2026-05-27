@@ -176,23 +176,25 @@ async function fetchCountry(
             30000
         }
       );
-
-    const actualCountry =
+const pageCountry =
   response.data
+    ?.header
+    ?.musicAnalyticsHeaderRenderer
     ?.countryCode ||
   country.code;
 
 if (
-  actualCountry !==
+  pageCountry !==
   country.code
 ) {
   console.log(
-    `⚠️ ${country.name} fallback to ${actualCountry}`
+    `⚠️ ${country.name} fallback to ${pageCountry}`
   );
 
   return [];
 }
 
+    
 const sections =
   response.data
     ?.contents
