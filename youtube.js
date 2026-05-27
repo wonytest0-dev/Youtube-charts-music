@@ -176,23 +176,37 @@ async function fetchCountry(
             30000
         }
       );
-const pageCountry =
+
+const header =
   response.data
     ?.header
-    ?.musicAnalyticsHeaderRenderer
-    ?.countryCode ||
+    ?.musicAnalyticsHeaderRenderer;
+
+const actualCountryCode =
+  header?.countryCode ||
   country.code;
 
+const actualCountryName =
+  header?.countryName ||
+  country.name;
+
 if (
-  pageCountry !==
-  country.code
+  actualCountryCode !==
+    country.code ||
+  actualCountryName
+    .toLowerCase()
+    .trim() !==
+  country.name
+    .toLowerCase()
+    .trim()
 ) {
   console.log(
-    `⚠️ ${country.name} fallback to ${pageCountry}`
+    `⚠️ ${country.name}: fallback to ${actualCountryName} (${actualCountryCode})`
   );
 
   return [];
 }
+
 
     
 const sections =
@@ -447,51 +461,8 @@ const sections =
   return [];
 }
 
-const uniqueViews =
-  new Set(
-    entries.map(
-      item => item.views
-    )
-  );
 
-if (
-  uniqueViews.size ===
-    1 &&
-  entries.length >
-    5
-) {
-  console.log(
-    `⚠️ ${country.name}: suspicious chart, skipped`
-  );
 
-  return [];
-}
-
-const duplicateCount =
-  entries.filter(
-    item =>
-      item.countryCode !==
-        "GLOBAL" &&
-      (
-        item.views ===
-          131071200 ||
-        item.views ===
-          7324569 ||
-        item.views ===
-          1173367
-      )
-  ).length;
-
-if (
-  duplicateCount >=
-  3
-) {
-  console.log(
-    `⚠️ ${country.name}: fake fallback chart`
-  );
-
-  return [];
-}
 
 console.log(
   `✅ ${country.name}: ${entries.length}`
