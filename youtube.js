@@ -186,22 +186,13 @@ const actualCountryCode =
   header?.countryCode ||
   country.code;
 
-const actualCountryName =
-  header?.countryName ||
-  country.name;
-
+// kalau country code berubah = fallback fake
 if (
   actualCountryCode !==
-    country.code ||
-  actualCountryName
-    .toLowerCase()
-    .trim() !==
-  country.name
-    .toLowerCase()
-    .trim()
+  country.code
 ) {
   console.log(
-    `⚠️ ${country.name}: fallback to ${actualCountryName} (${actualCountryCode})`
+    `⚠️ ${country.name}: fallback to ${actualCountryCode}`
   );
 
   return [];
@@ -707,43 +698,21 @@ await fs.writeFile(
 const allEntries =
   [];
 
-const BATCH_SIZE =
-  20;
-
-for (
-  let i = 0;
-  i <
-  COUNTRIES.length;
-  i +=
-    BATCH_SIZE
-) {
-  const batch =
-    COUNTRIES.slice(
-      i,
-      i +
-        BATCH_SIZE
-    );
-
-  const results =
-    await Promise.all(
-      batch.map(
-        fetchCountry
-      )
-    );
-
-  allEntries.push(
-    ...results.flat()
+const results =
+  await Promise.all(
+    COUNTRIES.map(
+      fetchCountry
+    )
   );
 
-  console.log(
-    `✅ Batch ${
-      Math.floor(
-        i /
-          BATCH_SIZE
-      ) + 1
-    } complete`
-  );
-}
+allEntries.push(
+  ...results.flat()
+);
+
+console.log(
+  "✅ All countries complete"
+);
+
 
 allEntries.sort(
   (a, b) =>
