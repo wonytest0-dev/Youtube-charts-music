@@ -467,11 +467,38 @@ if (
   return [];
 }
 
+const duplicateCount =
+  entries.filter(
+    item =>
+      item.countryCode !==
+        "GLOBAL" &&
+      (
+        item.views ===
+          131071200 ||
+        item.views ===
+          7324569 ||
+        item.views ===
+          1173367
+      )
+  ).length;
+
+if (
+  duplicateCount >=
+  3
+) {
+  console.log(
+    `⚠️ ${country.name}: fake fallback chart`
+  );
+
+  return [];
+}
+
 console.log(
   `✅ ${country.name}: ${entries.length}`
 );
 
 return entries;
+
 
 
     return entries;
