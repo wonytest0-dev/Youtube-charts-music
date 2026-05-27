@@ -177,12 +177,29 @@ async function fetchCountry(
         }
       );
 
-    const sections =
-      response.data
-        ?.contents
-        ?.sectionListRenderer
-        ?.contents ||
-      [];
+    const actualCountry =
+  response.data
+    ?.countryCode ||
+  country.code;
+
+if (
+  actualCountry !==
+  country.code
+) {
+  console.log(
+    `⚠️ ${country.name} fallback to ${actualCountry}`
+  );
+
+  return [];
+}
+
+const sections =
+  response.data
+    ?.contents
+    ?.sectionListRenderer
+    ?.contents ||
+  [];
+
 
     const entries =
       [];
