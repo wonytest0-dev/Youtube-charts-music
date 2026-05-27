@@ -436,9 +436,43 @@ const sections =
       }
     }
 
-    console.log(
-      `✅ ${country.name}: ${entries.length}`
-    );
+   if (
+  entries.length ===
+  0
+) {
+  console.log(
+    `⏭ ${country.name}: no chart`
+  );
+
+  return [];
+}
+
+const uniqueViews =
+  new Set(
+    entries.map(
+      item => item.views
+    )
+  );
+
+if (
+  uniqueViews.size ===
+    1 &&
+  entries.length >
+    5
+) {
+  console.log(
+    `⚠️ ${country.name}: suspicious chart, skipped`
+  );
+
+  return [];
+}
+
+console.log(
+  `✅ ${country.name}: ${entries.length}`
+);
+
+return entries;
+
 
     return entries;
   } catch (
